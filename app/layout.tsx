@@ -6,8 +6,8 @@ import type { Metadata } from "next";
 import { Toaster } from "react-hot-toast";
 
 export const metadata: Metadata = {
-	title: "NextJS Template",
-	description: "NextJS Template with TypeScript and TailwindCSS",
+	title: "Next Auth Bungie Provider",
+	description: "Next Auth Bungie Provider Example App",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
